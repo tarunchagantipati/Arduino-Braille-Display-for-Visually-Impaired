@@ -76,6 +76,17 @@ Arduino-Refreshable-Braille-Display/
 ├── videos/          # Demo video links
 └── README.md        # Project documentation
 ```
+## 📷 Hardware Setup
+
+<p align="center">
+  <img src="images/project_photo.jpg" alt="Hardware Setup" width="700">
+</p>
+
+## 🔄 Project Flowchart
+
+<p align="center">
+  <img src="images/flow_chart.jpg" alt="Flowchart" width="700">
+</p>
 
 ## ▶️ How to Run
 
