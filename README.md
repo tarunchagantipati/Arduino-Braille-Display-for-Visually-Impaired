@@ -110,8 +110,8 @@ The developed prototype successfully converts text stored on an SD card into ref
 ### Output Demonstration
 
 <p align="center">
-  <img src="images/output-1.jpeg" width="45%">
-  <img src="images/output-2.jpeg" width="45%">
+  <img src="images/output-1.jpg" width="45%">
+  <img src="images/output-2.jpg" width="45%">
 </p>
 
 ## 🚀 Future Improvements
