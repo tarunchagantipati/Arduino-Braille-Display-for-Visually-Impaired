@@ -45,7 +45,7 @@ Used for circuit prototyping and interconnections.
 ## 🔌 Circuit Diagram
 
 <p align="center">
-  <img src="hardware/circuit Diagram.png" alt="Circuit Diagram" width="800"/>
+  <img src="hardware/circuit Diagram.jpeg" alt="Circuit Diagram" width="800"/>
 </p>
 
 The circuit consists of an Arduino UNO connected to an SD card module using SPI communication. Two 4-channel relay modules interface the Arduino with six push-pull solenoids. An LM2596 buck converter provides a regulated 5V supply, while a 12V adapter powers the solenoids.
