@@ -1,5 +1,4 @@
-Libraries Used
+# Libraries Used
 
-SPI
-
-SD
+- SPI (Built-in Arduino Library)
+- SD (Built-in Arduino Library)
